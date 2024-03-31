@@ -1,0 +1,38 @@
+Epoch : 1, Batch ID : 1, Loss : 0.7229323387145996, Train acc : 0.46875
+Epoch : 1, Batch ID : 101, Loss : 0.657133162021637, Train acc : 0.5095915841584159
+Epoch : 1, Train Accuracy : 0.5258757961783439
+Epoch : 1 Test Accuracy 0.6285377358490566, Loss : 0.6636752609936696
+Epoch : 1, Train time 0:03:30
+Epoch : 1, Accuracy : 0.63, Loss : 0.66
+Epoch : 2, Batch ID : 1, Loss : 0.680321216583252, Train acc : 0.65625
+Epoch : 2, Batch ID : 101, Loss : 0.3569379150867462, Train acc : 0.6921410891089109
+Epoch : 2, Train Accuracy : 0.7298964968152867
+Epoch : 2 Test Accuracy 0.8007075471698113, Loss : 0.4315129023677898
+Epoch : 2, Train time 0:03:37
+Epoch : 2, Accuracy : 0.80, Loss : 0.43
+Epoch : 3, Batch ID : 1, Loss : 0.7076925039291382, Train acc : 0.59375
+Epoch : 3, Batch ID : 101, Loss : 0.2127956748008728, Train acc : 0.838180693069307
+Epoch : 3, Train Accuracy : 0.8493232484076433
+Epoch : 3 Test Accuracy 0.8136792452830188, Loss : 0.44933189325175193
+Epoch : 3, Train time 0:03:37
+Epoch : 4, Batch ID : 1, Loss : 0.6557847261428833, Train acc : 0.75
+Epoch : 4, Batch ID : 101, Loss : 0.26018625497817993, Train acc : 0.9053217821782178
+Epoch : 4, Train Accuracy : 0.8992834394904459
+Epoch : 4 Test Accuracy 0.8213443396226415, Loss : 0.48590494973479575
+Epoch : 4, Train time 0:03:37
+Epoch : 5, Batch ID : 1, Loss : 0.49477463960647583, Train acc : 0.78125
+Epoch : 5, Batch ID : 101, Loss : 0.16677634418010712, Train acc : 0.9204826732673267
+Epoch : 5, Train Accuracy : 0.9243630573248408
+Epoch : 5 Test Accuracy 0.8573113207547169, Loss : 0.48543697532336666
+Epoch : 5, Train time 0:03:37
+Epoch : 6, Batch ID : 1, Loss : 0.48518186807632446, Train acc : 0.875
+Epoch : 6, Batch ID : 101, Loss : 0.6758376955986023, Train acc : 0.9554455445544554
+Epoch : 6, Train Accuracy : 0.9482484076433121
+Epoch : 6 Test Accuracy 0.8378537735849056, Loss : 0.5812875145237963
+Epoch : 6, Train time 0:03:37
+Epoch : 7, Batch ID : 1, Loss : 0.2902156412601471, Train acc : 0.90625
+Epoch : 7, Batch ID : 101, Loss : 0.2531392574310303, Train acc : 0.9384282178217822
+Epoch : 7, Train Accuracy : 0.9462579617834395
+Epoch : 7 Test Accuracy 0.8360849056603774, Loss : 0.6193571731026443
+Epoch : 7, Train time 0:03:37
+Early stopping triggered. Stopping training.
